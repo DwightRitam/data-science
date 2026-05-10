@@ -1,9 +1,5 @@
 # data-science
-This is a massive and impressive curriculum! Documenting this journey on GitHub is one of the best ways to build a portfolio that actually gets noticed by recruiters.
 
-Since you're covering everything from basic Python to advanced XGBoost and AWS deployment, your README needs to be organized, professional, and visually engaging.
-
-Here is a "cool" and structured template you can use for your repository:
 
 ---
 
